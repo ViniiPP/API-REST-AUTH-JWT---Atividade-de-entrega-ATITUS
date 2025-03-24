@@ -2,8 +2,9 @@
 
 Esta é uma API REST simples desenvolvida com Flask que implementa autenticação usando JWT (JSON Web Tokens) e armazenamento de dados em SQLite.
 
-## Integrante
--    Vinícius Pereira Polli (RA: 1136503)
+## Integrantes
+-    Vinícius Pereira Polli (RA: 1136503);
+-    Laura Schu (RA: 1134656).
 
 
 ## 🚀 Funcionalidades
